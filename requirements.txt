@@ -1,0 +1,8 @@
+circular
+data.table
+harmonicmeanp
+Matrix
+RSpectra
+sf
+spdep
+squash
